@@ -1,0 +1,45 @@
+
+Dynamo-Volume-2 — Step 3: Provenance Log Creation
+
+(Copy-ready block coming below)
+
+This file creates proof of:
+
+✔ Who originated the work
+✔ When
+✔ What version
+✔ What changes were made
+✔ Public visibility timeline
+
+This is the strongest protection after README.
+
+
+---
+
+Create new file named:
+
+PROVENANCE_LOG.md
+
+Then paste the block below:
+
+
+---
+
+PROVENANCE_LOG.md
+
+# DYNAMO-VOLUME-2 — PROVENANCE LOG
+© 2025 Damian Greene  
+Public Deployment Ledger
+
+---
+
+## Version Origin
+Originator: Damian Greene  
+Declared Intent: Open-Research Release  
+Primary Development Environment: Live interactive system analysis  
+Prototype Lineage: Dynamo V1 → Dynamo-Volume-2 (Active)
+
+---
+
+## Initial Publication
+Date of Public Publication
