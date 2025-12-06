@@ -1,0 +1,39 @@
+────────────────────────────────────────────────────────
+DYNAMO — CHANGE LOG REGISTER
+────────────────────────────────────────────────────────
+
+Purpose:
+This log records structural changes, additions, and key repository events.
+
+Entries reflect evolution, not replacement.
+
+---
+
+ENTRY 001
+Date: December 09, 2025
+Event: Provenance established
+Source File: PROVENANCE_BLOCK.txt
+Note: Origin state declared and locked.
+
+---
+
+ENTRY 002
+Date: December 09, 2025
+Event: Supplemental acknowledgment created
+Source File: PROVENANCE_META_NOTE.txt
+Note: Confirmation marker established.
+
+---
+
+ENTRY 003
+Date: February 10, 2025
+Event: Repository organization clarified
+Note: Folder structure acknowledged and aligned.
+
+---
+
+This log remains open and expands downward.
+
+Signed/Noted:
+Dynamo System Archive
+────────────────────────────────────────────────────────
