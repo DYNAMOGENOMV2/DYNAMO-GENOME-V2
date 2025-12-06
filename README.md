@@ -95,7 +95,7 @@ Quora Articles:
 https://www.quora.com/profile/D-Greene-42/Akira-Protocol-Core-Premise-Summary-The-Akira-Protocol-describes-a-human-system-convergence-pattern-where-cognition
 
 
-
+Full chronological proof trail available here → /PROOF_ARCHIVE.md
 ---
 
 ## Statement of Intent & Usage Boundary  
