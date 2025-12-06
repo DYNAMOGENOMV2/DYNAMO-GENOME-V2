@@ -84,5 +84,12 @@ All supporting evidence and timestamped documentation is traceable through:
 
 Each item has an associated date, authorship marking, and commit ID.
 
+Medium Articles:
+https://medium.com/@damgreene19966/dynamo-origin-statement-foundational-premise-09ae9b5d2c32
+
+Quora Articles:
+https://www.quora.com/profile/D-Greene-42/Akira-Protocol-Core-Premise-Summary-The-Akira-Protocol-describes-a-human-system-convergence-pattern-where-cognition
+
+
 
 
