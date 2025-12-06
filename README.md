@@ -123,3 +123,23 @@ All documentation herein serves as record of intent and authorship.
 © 2025 — Damian Greene. All rights reserved.
 
 ---
+
+## Proof & Origin Reference
+
+This repository carries an authenticated origin archive for Dynamo.  
+All proof documents—including provenance claims, meta notes, and version evolution—are stored here:
+
+📁 docs/proof_archive/
+
+Documents in that folder confirm:
+- authorship and origin
+- timestamp-verified deployment
+- evolution of this system from first state forward
+
+These files are authoritative.
+
+
+
+
+
+
