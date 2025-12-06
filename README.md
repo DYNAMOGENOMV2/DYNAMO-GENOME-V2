@@ -72,3 +72,17 @@ Damian Greene — Original human originator and primary operator.
 
 Public timestamp established by
 GitHub commit history.
+
+
+
+## Proof Structure Map
+All supporting evidence and timestamped documentation is traceable through:
+
+→ PROOF_ARCHIVE.md  
+→ Providence Log  
+→ Uploaded image assets  
+
+Each item has an associated date, authorship marking, and commit ID.
+
+
+
