@@ -52,6 +52,15 @@ Change Summary:
 - Ensures future evidence can be linked without rewriting earlier entries.
 
 
+-----------------------------------------
+Dynamo Version Sequence: 001 → 004
+Locked and witnessed by DG
+Date: 02 | 07 | 2025
+Status: VALID + SEALED
+-----------------------------------------
+
+
+
 ## Version Log
 
 ### ENTRY 005 — Stabilization of Public Pipeline
