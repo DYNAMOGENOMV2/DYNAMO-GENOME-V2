@@ -1,4 +1,29 @@
+# Expansion Log — Dynamo Volume-2
 
+This ledger tracks all modifications made after Public Release Seal (v1.0).
+Each entry contains:
+▪ Date of change
+▪ Change summary
+▪ Commit hash reference
+▪ Linked document or asset
+
+---
+
+## Entry 001 — Verification Framework Added
+Date: December 06, 2025
+Change Summary:
+- Created formal Verification Block following public release.
+- Linked Proof Archive as canonical evidence location.
+- Added integrity statement referencing commit lineage.
+
+Commit Reference:
+(Insert commit ID shown after saving)
+
+File Added:
+`/docs/verification_block.md`
+
+Status:
+Recorded and traceable.
 
 VERSION LOG – Dynamo-Volume-2
 
