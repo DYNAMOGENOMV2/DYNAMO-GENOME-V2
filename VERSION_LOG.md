@@ -19,6 +19,15 @@ Change Summary:
 
 ---
 
+## Entry 002 — Image Evidence Assets Indexed
+Date: December 06, 2025  
+Change Summary:
+- Uploaded visual evidence assets showing cross-linked publication trail.
+- Indexed screenshot assets as confirmation of external timestamp presence.
+- Linked assets to repository structure for visibility and review
+
+---
+
 ## Entry 003 — Public Release Events Indexed
 Date: December 06, 2025
 
@@ -74,12 +83,6 @@ Public release traceable and independently verifiable.
 
 ---
 
-## Entry 002 — Image Evidence Assets Indexed
-Date: December 06, 2025  
-Change Summary:
-- Uploaded visual evidence assets showing cross-linked publication trail.
-- Indexed screenshot assets as confirmation of external timestamp presence.
-- Linked assets to repository structure for visibility and review.
 
   
 
