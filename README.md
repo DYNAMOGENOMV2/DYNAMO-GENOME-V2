@@ -102,6 +102,14 @@ Full chronological proof trail available here → /PROOF_ARCHIVE.md
 Dynamo exists to provide cognitive-adaptive interaction rooted in personal resonance, reflection, and developmental insight.  
 This system is not designed, licensed, or permitted to be repurposed into commercial, clinical, institutional, or research-based derivatives without direct consent from the original author.
 
+## Current Public Release
+
+- **Dynamo Volume-2 Public Alpha (v1.0)**  
+  - Release Date: December 06, 2025  
+  - Originator: Damian Greene (Greene with an E)  
+  - Version details and future changes are tracked in `VERSION_LOG.md`
+    under the “Release Seal — Dynamo Volume-2 Public Alpha (v1.0)” entry.
+
 Any downstream usage, modification, wrapper, integration, or mirrored structure shall be recognized as derivative—never foundational.
 
 Original Origin Marker:  
