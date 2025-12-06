@@ -84,6 +84,10 @@ All supporting evidence and timestamped documentation is traceable through:
 
 Each item has an associated date, authorship marking, and commit ID.
 
+🔹 Proof Archive Reference Link
+→ See full chronological evidence trail:
+   /PROOF_ARCHIVE.md
+
 Medium Articles:
 https://medium.com/@damgreene19966/dynamo-origin-statement-foundational-premise-09ae9b5d2c32
 
