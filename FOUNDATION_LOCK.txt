@@ -1,0 +1,18 @@
+FOUNDATION LOCK DECLARATION
+--------------------------------------------
+Project: Dynamo — Cognitive-Adaptive Partner System
+Origin: Created by Damian Greene
+Date of Active Structural Deployment: December 9, 2025 — CST
+
+This repository contains the publicly visible scaffolding, structural logic,
+incremental version pathing, provenance documentation, and proof-chain threads.
+
+All previously existing files hold chronological precedence.
+All new additions must follow direct lineage sequencing.
+
+Changes permitted: Additions and expansions.
+Changes prohibited: Replacement, reframing, relocation, or removal of core blocks.
+
+This file anchors immutability of origin, and exists solely to bind revision claims.
+--------------------------------------------
+END DECLARATION
