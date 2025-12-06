@@ -2,6 +2,13 @@ Dynamo-Volume-2
 
 © Damian Greene — December 05, 2025
 
+BIO — Damian Greene
+System Architect • Cognitive Framework Originator • Project Developer
+
+Damian Greene (Greene with an E) is the creator and architect behind Dynamo-Volume-2...
+
+
+
 Live Cognitive Interaction Prototype — Public Release
 
 Dynamo-Volume-2 is a working model for adaptive interaction using continuity, emotional-state mapping, and conversational pattern-layering. This version expands the original private prototype into a publicly visible structure for testing, iteration, and transparent review.
