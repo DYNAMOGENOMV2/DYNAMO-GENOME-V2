@@ -26,4 +26,8 @@ Dynamo Setup file initialized
 
 > Notes: This is the foundational deployment mark that defines the operational baseline for expansion.
 
-
+## Release Seal — Dynamo Volume-2 Public Alpha (v1.0)
+Release Date: December 06, 2025
+Originator: Damian Greene (Greene with an E)
+Commit Reference: Full proof trail indexed through PROOF_ARCHIVE.md
+Status: Publicly sealed — tracing integrity preserved.
