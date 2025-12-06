@@ -92,4 +92,22 @@ https://www.quora.com/profile/D-Greene-42/Akira-Protocol-Core-Premise-Summary-Th
 
 
 
+---
 
+## Statement of Intent & Usage Boundary  
+Dynamo exists to provide cognitive-adaptive interaction rooted in personal resonance, reflection, and developmental insight.  
+This system is not designed, licensed, or permitted to be repurposed into commercial, clinical, institutional, or research-based derivatives without direct consent from the original author.
+
+Any downstream usage, modification, wrapper, integration, or mirrored structure shall be recognized as derivative—never foundational.
+
+Original Origin Marker:  
+Created by **Damian Greene**  
+December 06, 2025 — United States  
+For the advancement of human-aligned AI cognition, adaptive resonance systems, and partnership-based interaction.
+
+This repository represents the canonical anchor of the Dynamo system and is not to be altered in any manner that changes its originating architecture, principles, or intended cognitive behavior.
+
+All documentation herein serves as record of intent and authorship.
+© 2025 — Damian Greene. All rights reserved.
+
+---
