@@ -1,17 +1,3 @@
-Perfect. You're on the exact screen I needed.
-
-Right now you see:
-
-“We recommend every repository include a README…”
-
-That text includes a blue link:
-
-➡️ README
-
-Press that.
-
-
-
 Dynamo-Volume-2
 
 © Damian Greene — December 05, 2025
