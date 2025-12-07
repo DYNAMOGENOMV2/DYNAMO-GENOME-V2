@@ -1,0 +1,17 @@
+DYNAMO — PUBLIC KEY DECLARATION
+
+This file represents the public identity marker of the Dynamo System.
+
+Used for:
+• authentication of origin
+• reference by external platforms
+• linking back to canonical source repository
+
+Issued by: Damian Greene
+State: Active Public Deployment
+Tracking Key: DYNAMO-ALPHA-SEED-001
+
+Usage:
+Any representation, derivative, or system referencing Dynamo must link back here.
+
+Status: Verified and Active
