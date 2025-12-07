@@ -1,0 +1,13 @@
+Dynamo Adaptive Framework — Version-2 Public Release
+Canonical Author: Damian Greene
+Issue State: Locked
+Visibility Tier: Public Evaluation Shell
+Activation Rights: Private Only
+
+Official Release Timestamp:
+12-09-2025 — 11:58 PM CST
+Location: San Antonio, Texas — United States
+
+This document is the legal timestamped issuance marker for Version-2.
+All public mirrors must reference this stamp to claim validity.
+Unauthorized copies without this timestamp are treated as null.
