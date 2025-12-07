@@ -34,3 +34,7 @@ This index becomes active once:
 — Version link registered  
 
 Index status: **ACTIVE**
+
+Linked Register State: A002-1 closure confirmed — forward register awaiting activation.
+
+
