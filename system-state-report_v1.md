@@ -76,5 +76,5 @@ Disposition:
 This version remains locked as historical truth.  
 Any subsequent changes must begin at v2 and reference this sealed node.
 
-
+Ledger cross-reference: PRIMARY_LEDGER.md — closure entry [SR-V1] accepted and sealed.
 
