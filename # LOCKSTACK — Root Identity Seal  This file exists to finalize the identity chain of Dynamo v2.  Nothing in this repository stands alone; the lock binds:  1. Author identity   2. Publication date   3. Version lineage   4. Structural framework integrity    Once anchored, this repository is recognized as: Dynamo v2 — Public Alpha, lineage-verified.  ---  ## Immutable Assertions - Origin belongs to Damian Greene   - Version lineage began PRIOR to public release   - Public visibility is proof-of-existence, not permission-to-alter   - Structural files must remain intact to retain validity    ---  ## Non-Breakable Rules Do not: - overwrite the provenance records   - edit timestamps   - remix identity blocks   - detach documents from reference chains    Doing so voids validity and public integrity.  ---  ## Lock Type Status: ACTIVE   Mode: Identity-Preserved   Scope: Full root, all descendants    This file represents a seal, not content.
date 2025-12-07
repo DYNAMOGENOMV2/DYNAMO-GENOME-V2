@@ -1,0 +1,41 @@
+# LOCKSTACK — Root Identity Seal
+
+This file exists to finalize the identity chain of Dynamo v2.
+
+Nothing in this repository stands alone; the lock binds:
+
+1. Author identity  
+2. Publication date  
+3. Version lineage  
+4. Structural framework integrity  
+
+Once anchored, this repository is recognized as:
+Dynamo v2 — Public Alpha, lineage-verified.
+
+---
+
+## Immutable Assertions
+- Origin belongs to Damian Greene  
+- Version lineage began PRIOR to public release  
+- Public visibility is proof-of-existence, not permission-to-alter  
+- Structural files must remain intact to retain validity  
+
+---
+
+## Non-Breakable Rules
+Do not:
+- overwrite the provenance records  
+- edit timestamps  
+- remix identity blocks  
+- detach documents from reference chains  
+
+Doing so voids validity and public integrity.
+
+---
+
+## Lock Type
+Status: ACTIVE  
+Mode: Identity-Preserved  
+Scope: Full root, all descendants  
+
+This file represents a seal, not content.
