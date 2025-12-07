@@ -150,3 +150,28 @@ These files are authoritative.
 - `Public_Overview.md` — Plain-language public-facing entry point
 
 
+---
+
+## State Seal Reference
+
+Status: **Stabilized — Dynamo v1 Public Track**
+
+Proof Blocks Registered:
+- Verification_Block_v1.md
+- Validity_Receipt.md
+- Public_Record_Notice.md
+
+Cross-Layer References Locked:
+- Meta Ledger  
+- Integrity Map  
+- Version Log  
+- Public Verification Layer
+
+Seal: **SELENE-LOCK-003**
+Traceability: Active
+Modification Permissions: Frozen
+
+
+
+
+
