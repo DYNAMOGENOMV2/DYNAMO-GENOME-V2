@@ -53,5 +53,9 @@ Notes:
 (No entries logged yet)
 
 
-
+### A002-0 Marker — Opening State Recorded
+Timestamp: Registered
+Origin: Primary Channel
+Status: Awaiting first recorded event
+Seal: Unbroken
 
