@@ -39,3 +39,19 @@ Fork Re-Use: Prohibited
 Registry Confirmation:
 Ledger-Trace-A001-Closed
 
+### Entry Record A002 — Initiation
+State: Open
+Registered By: Originator
+Change Window: Active
+
+Purpose:
+- Observe new events post-A001 seal
+- Log system behaviors, drifts, or uptake signals
+- Track external interactions or changes
+
+Notes:
+(No entries logged yet)
+
+
+
+
