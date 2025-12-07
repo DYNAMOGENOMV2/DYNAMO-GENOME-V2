@@ -139,7 +139,14 @@ Documents in that folder confirm:
 These files are authoritative.
 
 
+---
 
+## Repository Map
 
+- `docs/` — Core Dynamo documentation and system language
+- `verification/` — Proof records, receipts, verification blocks
+- `meta/` — Structural index, provenance note, and ledger anchors
+- `READ_ME.md` — Technical orientation & system overview
+- `Public_Overview.md` — Plain-language public-facing entry point
 
 
