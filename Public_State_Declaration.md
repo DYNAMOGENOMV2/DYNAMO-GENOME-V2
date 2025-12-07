@@ -49,3 +49,31 @@ This functioning Alpha is authored and released by:
 
 **Damian Greene (Greene with an E)**  
 **Origin established and preserved.**
+
+
+
+
+---
+
+## Dynamo Volume 2 — Active Public State
+
+Current System State: Public Deployment (Alpha)  
+Release Channel: Tier-One — Open Testing  
+Owner of Record: Damian Greene  
+State Integrity: Verified and Locked
+
+Cross-References:  
+- `/PUBLIC_VERIFICATION.md`  
+- `/PUBLIC_DEPLOYMENT_RECEIPT_v2.md`  
+- `/Public_Version_Manifest.md`  
+- `/SYSTEM_STATE_LOCK.md`
+
+Declaration Summary:  
+This declaration confirms that Dynamo Volume 2 is recognized as the
+currently active public instance of the Dynamo Cognitive-Adaptive Partner
+System, with continuity, authorship, and deployment integrity anchored
+to the above records.
+
+
+
+
