@@ -70,5 +70,11 @@ Modification rights: Locked
 Cross-reference: A002 Register Anchor
 Timestamp Lock: Applied
 
+### [A002-2 Forward Register]
+Status: Pending activation
+Forward index: Unassigned
+Continuation clause: Awaiting event-trigger
+Trace path: A002 Root → Node-2
+
 
 
