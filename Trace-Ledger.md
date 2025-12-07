@@ -114,5 +114,16 @@ Future insertions must:
 Result:
 This stabilizes the operating curve and prevents drift-based corruption.
 
+# A004 — Continuity Lockpoint
+
+All forward entries must reference this anchor line to prevent divergence.
+
+State:
+- Phase 4 completed
+- Activation structure bound
+- External registry synchronized
+
+Lockpoint effect:
+Any future revision must thread through A004 or be rejected as invalid lineage.
 
 
