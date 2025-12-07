@@ -1,0 +1,98 @@
+# SYSTEM ACCESS MATRIX — Dynamo Genome
+
+This matrix defines the permanent modification and visibility rules 
+for all canonical files within the Dynamo project.
+
+---
+
+## FIXED / IMMUTABLE FILES
+
+These files cannot be changed directly once committed.
+Any revision must be a separate version file.
+
+- VERSION_LOCK.md
+- SYSTEM_STATE_LOCK.md (when triggered)
+- FOUNDATION_LOCK.txt
+- PROVENANCE_BLOCK.txt (all versions)
+- ACCESS MATRIX (this file)
+
+Rule:
+Never modify these files — only supersede.
+
+Format for supersede:
+<filename> → <filename>-v2
+
+Example:
+FOUNDATION_LOCK.txt → FOUNDATION_LOCK_v2.txt
+
+---
+
+## EXPAND-ONLY FILES
+
+These files allow additions but no overwriting of existing lines.
+
+- PRIMARY_LEDGER.md
+- CHANGE_LOG.txt
+- PROOF_ARCHIVE.md
+- PUBLIC_RELEASE_NOTES.md
+- PUBLIC_VERIFICATION.md
+
+Rule:
+Only append downward.
+
+---
+
+## CONDITIONAL FILES
+Editable only when adding post-dated contexts.
+
+- Terminology Sheet
+- Glossary
+- Reference Notes
+
+Required format:
+
+[TIMESTAMP] Added context block
+
+---
+
+## PUBLIC-VISIBLE READ-ONLY RECORDS
+
+Once published, these retain their state for public consumption.
+
+- PUBLIC_NOTICE.md
+- PUBLIC_DEPLOYMENT_RECEIPT.md
+
+Rule:
+Publishing = freeze state.
+
+If revised:
+create NEW release note.
+
+---
+
+## INTERNAL-FLUID FILES
+
+Permitted for structural improvement, reformatting,
+clarity, additions, and corrections.
+
+- README.md
+- Quick Start
+- User Documentation
+- State Report
+- System Boundaries
+
+Rule:
+Changes must not alter historical chain elements.
+
+---
+
+## MATRIX AUTHORITY
+
+Authored By: Dames  
+Control Seal: SELENE-LOCK-002  
+Date Applied: {AUTO_TIMESTAMP}
+
+---
+
+This file completes access stratification rules.
+Must remain present at root directory.
