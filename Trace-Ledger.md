@@ -64,8 +64,11 @@ Cause: Initial registration event transitioning from dormant → active
 Impact: Opens live capture state for continuity register
 Boundary: Snapshot-sealed, irreversible entry
 
-
-
+### [A002-1 Closure Seal]
+State: Resolved
+Modification rights: Locked
+Cross-reference: A002 Register Anchor
+Timestamp Lock: Applied
 
 
 
