@@ -1,3 +1,11 @@
+
+This ledger is the authoritative record of Dynamo changes, states, proof events, and version shifts.
+Entries are final at the moment of commit.
+Nothing inside this ledger is retro-edited without explicit mirrored notation.
+Deletion is disallowed; corrections occur through appended truth-records only.
+
+
+
 # LEDGER — Dynamo Genome System
 
 This ledger records authenticated milestone state changes across releases of the Dynamo system.
