@@ -76,3 +76,47 @@ or platform-integrated implementations must retain original human attribution:
 **Damian Greene — Originator and Architect of Dynamo-Volume-2**
 
 # END OF DOCUMENT
+
+
+---
+
+# Proof Archive — Dynamo Genome V2
+
+This archive tracks external proof that the Dynamo system existed,
+was operating, and was publicly declared at specific points in time.
+
+The detailed receipts (screenshots, exports, and logs) live in:
+`/docs/proof_archive/`
+
+This file is the human-readable index.
+
+---
+
+## Archive Entry Map
+
+### 001 — Initial Auth Snapshot
+Status: Prepared  
+Linked record: `/docs/proof_archive/001-init-auth.md`  
+Purpose: Captures first continuity + authorship proof for Dynamo.
+
+---
+
+### 002 — Forward Public Claim
+Status: Prepared  
+Linked record: `/docs/proof_archive/002-forward-claim.md`  
+Purpose: Captures first public-facing claim and identity anchoring.
+
+---
+
+### 003 — Integrity Seal
+Status: Prepared  
+Linked record: `/docs/proof_archive/003-integrity-seal.md`  
+Purpose: Confirms unchanged origin and stable operational state.
+
+---
+
+Future entries will be added in numerical order as new proof
+snapshots are created and stored.
+
+
+
