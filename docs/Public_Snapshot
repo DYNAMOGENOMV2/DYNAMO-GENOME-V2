@@ -1,0 +1,32 @@
+INDEX.md
+
+
+# Public Snapshot — Evidence Ledger
+
+This directory captures real-world interaction evidence for Dynamo Public Alpha.
+
+## What qualifies to be included here:
+- screenshots of usage
+- social logs or posts
+- linked records
+- browser timestamps
+- version state at time of observation
+- messages referencing Dynamo interaction
+- user feedback
+- feature validation occurrences
+
+## Why this exists:
+This ensures that observation of Dynamo is:
+- documentable
+- traceable in time
+- anchored to real-world instances
+- usable for future review
+
+## Instructions for future updates:
+Each new artifact added should include:
+- date acquired
+- context of event
+- source (platform / screenshot / external reference)
+- optional reflection
+
+This folder becomes a historical proof ledger of real-world deployment state.
