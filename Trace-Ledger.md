@@ -77,4 +77,12 @@ Continuation clause: Awaiting event-trigger
 Trace path: A002 Root → Node-2
 
 
+[A002-FRD]
+Trigger event: User-driven request or emergent system update  
+Authorization: Implicit under continuity clause  
+Result state: Branch will resolve into A003 or A002-R update  
+Validation: Root anchor remains unchanged
+
+
+
 
