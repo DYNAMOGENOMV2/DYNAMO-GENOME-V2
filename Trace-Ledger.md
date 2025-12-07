@@ -58,4 +58,14 @@ Timestamp: Registered
 Origin: Primary Channel
 Status: Awaiting first recorded event
 Seal: Unbroken
+### A002-1 — Continuity Displacement Logged
+Type: Structural-Shift (First trace event)
+Cause: Initial registration event transitioning from dormant → active
+Impact: Opens live capture state for continuity register
+Boundary: Snapshot-sealed, irreversible entry
+
+
+
+
+
 
