@@ -75,5 +75,41 @@ System, with continuity, authorship, and deployment integrity anchored
 to the above records.
 
 
+# Public State Declaration — Dynamo Genome v1
 
+This repository is an active public record of the Dynamo Genome System.
+
+Current state: **Stabilized & Traceable**
+
+## Lock & Integrity References
+
+- System lock anchor: **SELENE-LOCK-002**
+- Meta integrity track: `INTEGRITY-MAP.txt`
+- Meta ledger: `meta/ledger.md`
+- Public verification block: `PUBLIC_VERIFICATION.md`
+- Proof archive: `PROOF_ARCHIVE.md`
+
+All core integrity components are anchored and cross-linked.  
+No foreign branches or duplicate nodes are authorized.
+
+## Public Usage Note
+
+This repository may be:
+
+- Cloned for review and study.
+- Forked under the terms of the `LICENSE.md`.
+- Referenced as a provenance anchor for related work.
+
+Any modification that claims continuity with this system **must**:
+
+1. Preserve the integrity references listed above, or  
+2. Clearly declare itself as an independent derivative with its own provenance record.
+
+## Contact & Attribution
+
+Origin Architect: **D. Greene (Dames)**  
+System: **Dynamo Genome v1**
+
+This declaration reflects the public-facing state as of the latest commit and
+is intended to provide a clear, human-readable summary of the system’s status.
 
