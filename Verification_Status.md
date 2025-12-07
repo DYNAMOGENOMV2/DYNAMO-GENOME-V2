@@ -8,4 +8,4 @@ Integrity:
 - Version trail preserved
 
 Latest State Confirmed: Stable
-Timestamp Affirmed: Manual witness confirmation
+Timestamp Affirmed: Manual witness confirmation.
