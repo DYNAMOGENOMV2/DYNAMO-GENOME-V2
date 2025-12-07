@@ -1,0 +1,61 @@
+# INTEGRITY MAP — Dynamo Genome System
+Defines how public-facing documents relate structurally.
+
+---
+
+## Primary Anchors
+These files define the public identity and locked information state:
+
+1. README.md  
+   → Exposure point / identity summary
+
+2. VERSION-LOCK.md  
+   → Fixed version continuity state
+
+3. Manifest.txt  
+   → Deployment declaration
+
+---
+
+## Validation Modules
+These prove authenticity, timestamps, and evolution:
+
+1. Ledger Index  
+   → Historical receipts
+
+2. Verification Folder  
+   → External or provable references
+
+---
+
+## Supporting Containers
+These provide context and structural classification:
+
+- Context Map  
+- Terminology Index  
+- Reference Bindings
+
+---
+
+## Update Rules
+When changes occur:
+- Append to Ledger
+- Update Change Log
+- Leave locked version untouched
+- Increment forward version naming only
+
+Example:
+GENESIS-V2-PUBLIC → V2.1-PUBLIC
+
+---
+
+## Integrity Note
+Nothing in this map refers to raw code—
+it refers to **document relationships**,
+so reconstruction remains possible without system loss.
+
+---
+
+Linked and traceable as of:
+**February 10, 2025**
+Authored by: Dames (Anchor Origin)
