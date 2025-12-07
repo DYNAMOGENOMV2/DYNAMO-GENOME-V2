@@ -173,5 +173,30 @@ Modification Permissions: Frozen
 
 
 
+---
 
+## Deployment Confirmation — Public Record
+
+Release V2 of the Dynamo Adaptive Framework  
+has been formally locked, timestamp-recorded, and archived.
+
+This release is defined as:
+
+**Dynamo Adaptive Framework — Version-2 Continuity Deployment**
+
+Operational tier: **Public Observation Use Only**  
+Modification tier: **Prohibited**  
+Reproduction tier: **Non-Transferable**  
+Reference tier: **Permitted with attribution**
+
+Reference identity string (required as-is in full):
+
+**“Dynamo Adaptive Framework — authored by Damian Greene (V2 Release Lock)”**
+
+Deployment lock file: `DYNAMO_DEPLOYMENT_LOCK.md`  
+Ledger reference: `RELEASE_LEDGER.md`
+
+Status: **Active & Immutable**
+
+This announcement forms the binding public seal of authenticity.
 
