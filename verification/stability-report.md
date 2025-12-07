@@ -1,3 +1,9 @@
+# Dynamo Verification Index
+Version: 2.0
+Registry Status: Active
+Report Integrity: Confirmed
+
+
 # Stability Report — Phase Origin Lock
 
 Internal continuity validated through A004 lockpoint.
