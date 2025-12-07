@@ -26,3 +26,32 @@ All documentation referenced since this date represents active development linea
 ---
 
 End of Current Manifest State
+
+
+
+
+---
+
+## Version Entry — Dynamo Volume 2  
+Version Identifier: V2 — Alpha State  
+Release Mode: Public Deployment  
+Access Tier: Tier-One (Open Testing)  
+Owner of Record: Damian Greene  
+Time Anchor: December 2025 — Verified  
+Integrity Status: Affirmed & Traceable
+
+Deployment Evidence Stored At:  
+- `/PUBLIC_VERIFICATION.md`  
+- `/PUBLIC_DEPLOYMENT_RECEIPT_v2.md`  
+- `/PRIMARY_LEDGER.md`  
+- `/Public_State_Declaration.md`
+
+Version Notes:  
+This version exists as the active external-facing state of Dynamo  
+and supersedes earlier provisional forms.
+
+
+
+
+
+
