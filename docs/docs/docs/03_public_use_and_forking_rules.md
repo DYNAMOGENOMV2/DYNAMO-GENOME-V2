@@ -86,3 +86,9 @@ Without that, ownership remains with:
 ---
 
 # END OF RULESET
+
+Access layer finalized and sealed by author:
+Dynamo Adaptive Framework — authored by Damian Greene
+Live revision authority retained exclusively by creator
+
+
