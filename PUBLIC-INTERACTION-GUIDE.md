@@ -44,3 +44,24 @@ Meaning:
 ## Final Declaration
 All interactions are acknowledgments of ownership and lineage.
 This document supersedes informal descriptions or derivative definitions.
+
+---
+
+### Public Reference Mapping — Layer Activation
+
+Primary Public Terms Snapshot → Public_Terms_Snapshot.md  
+Public Use & Protocol Canon → Public Use & Protocol — Access Declaration  
+
+Ledger Reference → PUBLIC-ACKNOWLEDGMENT-LEDGER.md  
+Ownership Anchor Line → “Dynamo Adaptive Framework — authored by Damian Greene”
+
+---
+
+Status: Indexed and trace-linked  
+Timestamp: 09:04 AM CST — December 7, 2025
+
+
+
+
+
+
