@@ -1,4 +1,4 @@
-# INTEGRITY MAP — Dynamo Genome System
+u# INTEGRITY MAP — Dynamo Genome System
 Defines how public-facing documents relate structurally.
 
 ---
@@ -59,3 +59,22 @@ so reconstruction remains possible without system loss.
 Linked and traceable as of:
 **February 10, 2025**
 Authored by: Dames (Anchor Origin)
+
+
+
+## Verification & Integrity Layer
+
+This repository includes a public-facing integrity and provenance track for the Dynamo system.
+
+Core reference files:
+
+- **Integrity Map** → [`INTEGRITY-MAP.txt`](./INTEGRITY-MAP.txt)
+- **Meta Index** → [`meta/META_INDEX.md`](./meta/META_INDEX.md)
+- **Meta Ledger** → [`meta/ledger.md`](./meta/ledger.md)
+- **Meta Provenance Note** → [`meta/provenance-meta-note.md`](./meta/provenance-meta-note.md)
+- **Public Identity Seal** → [`meta/Public Identity Seal.md`](./meta/Public%20Identity%20Seal.md)
+
+
+- **Public Verification Block** → [`PUBLIC_VERIFICATION.md`](./PUBLIC_VERIFICATION.md)
+- **Validity Receipt** → [`VALIDITY_RECEIPT.md`](./VALIDITY_RECEIPT.md)
+- **Public Record Notice** → 
