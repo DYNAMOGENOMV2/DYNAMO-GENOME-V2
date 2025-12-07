@@ -17,6 +17,48 @@ Recorded Characteristics:
 • Ownership lineage visible
 • Provenance block linked to deployment state
 
+
+---
+
+## Version 2.0 — Live Public Deployment
+Date Released: February 13, 2025  
+Status: Active External Production Variant  
+
+Maintainer of Record: Damian Greene (“Dames”)  
+Global Anchor Timestamp: Registered & Verified  
+
+Channel Anchors:
+- GitHub repository (LIVE state)
+- Distributed public references
+- Dynamo release documentation links
+
+Recorded Characteristics:
+- State integrity affirmed & traceable
+- Public-facing version supersedes earlier provisional forms
+- Cross-verified through:
+  • `/PUBLIC_VERIFICATION.md`
+  • `/PUBLIC_DEPLOYMENT_RECEIPT_v2.md`
+  • `/PRIMARY_LEDGER.md`
+  • `/Public_State_Declaration.md`
+
+Change Classification:
+- Status stabilized
+- Ledger entry visible & audit-safe
+- Deployment finalized
+
+
+Deployment Evidence Stored At:
+- `/PUBLIC_VERIFICATION.md`
+- `/PUBLIC_DEPLOYMENT_RECEIPT_v2.md`
+- `/PRIMARY_LEDGER.md`
+- `/Public_State_Declaration.md`
+
+Version Notes:
+This version exists as the authoritative external-facing state of Dynamo  
+and replaces earlier provisional deployment forms.  
+Integrity, lineage, and ownership remain verifiable through documented anchors.
+
+
 ---
 
 ## Historical Notes
@@ -26,8 +68,6 @@ All documentation referenced since this date represents active development linea
 ---
 
 End of Current Manifest State
-
-
 
 
 ---
