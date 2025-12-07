@@ -17,3 +17,15 @@ This entry affirms the creation and anchoring of the Trace Ledger itself.
 All subsequent continuity chains will extend from this origin point without revision.
 
 Verification Line: ✓ Immutable
+## Broadcast Notice — Public Trace Visibility
+
+This ledger is observable for continuity review and compliance validation.
+External parties may inspect the existence of entries but may not rewrite,
+restructure, simulate, or reproduce continuity sequences.
+
+Tracking Reference Key:
+Ledger-Trace-Line-A001
+
+Visibility Tier: Read-Only
+Modification Rights: Owner-exclusive
+
