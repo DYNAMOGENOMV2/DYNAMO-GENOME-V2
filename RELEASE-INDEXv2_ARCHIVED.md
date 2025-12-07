@@ -1,3 +1,9 @@
+ARCHIVED STATUS:
+This document represents a divergence created outside original continuity.
+Primary ledger is RELEASE-INDEX.md.
+Retained for record of sequence and system behavior.
+
+
 # Release Index — Dynamo
 
 This document provides an index reference to official files representing
