@@ -64,7 +64,16 @@ This document exists as the human-readable verification record
 and may be updated as versions evolve.
 
 
+---
 
+## Verification Seal
+Status: VALID  
+Anchor Date: {AUTO_TIMESTAMP}  
+Registered Origin: Dames – Dynamo Architect  
+Lock Reference: SELENE-SEAL-VER-001  
+
+This file reflects the public-facing verification track.
+Any changes beyond this point must produce a new validation receipt.
 
 
 
