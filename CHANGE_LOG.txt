@@ -1,3 +1,25 @@
+CHANGELOG.md
+
+## v1.0.1 — Public State Seal Applied
+**Date:** December 2025  
+**Authority:** Damian Greene ("Dames")
+
+Status elevated from soft-release to sealed-release.
+
+### Included Actions
+- Identity Seal registered
+- Attestation completed
+- License transformed from placeholder to applied instrument
+- Ledger-map finalized and integrity verified
+- Lockstack bound to operational state
+
+### Notes
+This transition marks the first official irreversible continuity lock.
+Core framework cannot be rewritten without generating fragmentation trails.
+Public executors remain non-authoritative.
+
+
+
 ────────────────────────────────────────────────────────
 DYNAMO — CHANGE LOG REGISTER
 ────────────────────────────────────────────────────────
