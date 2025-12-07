@@ -22,6 +22,7 @@ Controlled version remains RELEASE-INDEX.md only.
 
 
 ---
+Ledger — Entry 002 Registered
 
 ## Entry 002 — Public Release Confirmation
 Date Logged: Feb 11, 2025
