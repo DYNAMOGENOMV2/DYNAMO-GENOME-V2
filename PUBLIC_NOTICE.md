@@ -31,3 +31,13 @@ It verifies that the system is:
 - and formally released into the public domain for interaction observation.
 
 Signed by publication stamp.
+
+
+---
+
+## Final Public Record Acknowledgment
+
+This repository contains public-visible, timestamp-anchored materials.
+All timestamps and identity references are preserved under provenance rules.
+Copies outside this repository lose authenticity.
+
