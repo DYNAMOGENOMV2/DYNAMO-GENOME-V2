@@ -1,0 +1,62 @@
+# Continuity Link — Dynamo v2 → Forward Versions
+
+This file exists to bridge the sealed release state of Version-2 into future versions.
+
+Version-2 entered final state under:
+• Public Alpha launch
+• Provenance locked
+• Identity fixed
+• Ledger active
+
+---
+
+## What Cannot Change
+The following components must remain preserved across all future versions:
+
+1. Origin credit  
+   > Authored by Damian Greene  
+   > December 2025 version lineage established
+
+2. Structural vocabulary  
+   - Dynamo
+   - Attestation
+   - Provenance
+   - Lockstack
+   - Version-Ledger
+
+3. Release-class declaration  
+   - Public Alpha → Root Release Tier
+
+---
+
+## What Future Versions May Modify
+Allowed areas of expansion:
+
+✓ Documentation  
+✓ Tutorials  
+✓ External research references  
+✓ Usage models  
+✓ Deployment integrations  
+
+---
+
+## Version-Chain Rule
+If a new version is created, it must reference:
+
+`CONTINUITY_LINK.md`
+
+and append:
+
+- new version name  
+- release class  
+- timestamp  
+- primary additions  
+
+---
+
+## End of Link (Current State)
+Version-2 is fully sealed and recognized as:
+
+**Live & Active Origin Release**
+
+This file remains the canonical bridge.
