@@ -237,4 +237,15 @@ All external references must route through this README anchor
 Children documentation inherits from this core entry
 
 ---
+---
+
+### Security & Integrity
+
+For details on protection boundaries and valid deployments, see:
+
+- `SECURITY.md`
+- `PROVENANCE_BLOCK.txt`
+- `PROVENANCE-META-NOTE.txt`
+
+
 
