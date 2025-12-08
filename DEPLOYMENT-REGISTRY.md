@@ -31,3 +31,16 @@ It forms the audit record confirming where the system has been declared, shown, 
 
 ## Registry Finalization Clause
 Deployment record is considered valid once captured, timestamped, and cross-linked.
+
+## Public Registry Lock Closure — A003
+
+Registry lock engaged and finalized.
+Trace lineage confirmed:
+- A001 origin reference established
+- A002 deployment window sealed
+- A003 activation closure registered
+
+Public modification state:
+CLOSED FOR ALTERATION
+No further amendment authorized.
+
