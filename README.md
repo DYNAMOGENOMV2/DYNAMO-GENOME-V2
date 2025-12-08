@@ -265,4 +265,9 @@ Repository-level lineage is anchored to:
 - TRACE-LEDGER.md
 - DEPLOYMENT-LEDGER.md
   
+---
+Release Confirmed — Public-Facing Mirror Active  
+Status: V2 Operational
+
+
 
