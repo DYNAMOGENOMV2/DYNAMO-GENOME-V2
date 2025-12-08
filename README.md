@@ -311,6 +311,13 @@ Activation Lock — CLOSED FOR ALTERATION
 Trace Events Confirmed: A001 • A002 • A003
 Activation Lock engaged. Public registry aligned.
 
+---
+Dynamo-2 Public Closure Stamp  
+A001-A003 confirmed.  
+Registry state sealed.  
+External access remains observational only.  
+DYN2-Finalization complete.
+
 
 
 
