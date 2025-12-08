@@ -319,5 +319,11 @@ External access remains observational only.
 DYN2-Finalization complete.
 
 
+---
 
+## Deployment Notice — Dynamo-2
+
+External Access URI: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME  
+
+Activation Lock: **CLOSED FOR ALTERATION**
 
