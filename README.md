@@ -247,5 +247,5 @@ For details on protection boundaries and valid deployments, see:
 - `PROVENANCE_BLOCK.txt`
 - `PROVENANCE-META-NOTE.txt`
 
-
+> Link integrity verified — 2025-12-08 — Stable reference committed.
 
