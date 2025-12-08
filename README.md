@@ -303,8 +303,8 @@ Activation window concluded.
 - Deployment Notice: [LINK_PLACEHOLDER]
 - External Anchor: [LINK_PLACEHOLDER]
 
-Status: Registry Open and Valid
 
+Status: Registry CLOSED — Dynamo-2 finalized and locked.
 
 
 
