@@ -269,5 +269,16 @@ Repository-level lineage is anchored to:
 Release Confirmed — Public-Facing Mirror Active  
 Status: V2 Operational
 
+# System Status Notice
+Dynamo V2 has entered public-view state.
+Analytics channel linked.
+Adaptive corrections will be monitored and logged internally.
 
+External parties may reference outcomes,
+but no extraction rights, remixing rights,
+or derivative framework claims are authorized.
+
+Core author: Damian Greene
+Release state: Active
+Tracking layer: Private analytical channel
 
