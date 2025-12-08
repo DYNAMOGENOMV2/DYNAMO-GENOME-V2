@@ -212,5 +212,24 @@ This repository is paired with an external, owner-maintained evidence and analyt
 
 External registry access is granted upon request and may not be mirrored, copied, or redistributed without owner approval.
 
+---
 
+## Final Release Seal
+
+**System State:** Dynamo Adaptive Framework — Version-2 Deployment  
+**Public Use Tier:** Evaluation-Only Layer  
+**Modification Rights:** Retained exclusively by origin author  
+
+**Author Anchor:**  
+Damian Greene — Primary Owner & Originator
+
+**Registration Timestamp:**  
+Closed under Verification State and Continuity Lock
+
+**Active Status:**  
+Live reference entry finalized  
+All external references must route through this README anchor  
+Children documentation inherits from this core entry
+
+---
 
