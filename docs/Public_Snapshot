@@ -51,5 +51,17 @@ Snapshot hash imprint:
 This snapshot reflects a fully coherent public-facing state.
 No external forks or divergence observed.
 
+### Public Announcement Stack (Google Drive)
 
+Primary channel for time-stamped public notices:
+
+- Folder: **PUBLIC ANNOUNCEMENTS**
+- Contents:
+  - `ANNOUNCEMENT_LOG.md`
+  - `CHANGE_LEDGER – EXTERNAL_ANNOUNCEMENTS.md`
+  - `DISTRIBUTION_LOG – PHASE_2.md`
+  - `INDEX – PUBLIC ANNOUNCEMENTS.md`
+
+All external announcement activity for **Dynamo v2 Public Evaluation** is
+logged and indexed in this Drive folder.
 
