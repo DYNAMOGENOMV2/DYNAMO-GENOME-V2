@@ -285,4 +285,13 @@ Tracking layer: Private analytical channel
 Media Anchor Reference (Private Layer Observational Access):
 https://drive.google.com/drive/folders/1nYDQ5HPYTil20judFgm1K4BMvnB7Wr0k
 
+---
+
+### Deployment Registry
+
+For a live record of where Dynamo v2 has been publicly declared or referenced, see:
+
+- [`DEPLOYMENT-REGISTRY.md`](./DEP
+
+
 
