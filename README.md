@@ -200,3 +200,17 @@ Status: **Active & Immutable**
 
 This announcement forms the binding public seal of authenticity.
 
+---
+
+## Dynamo External Registry
+
+This repository is paired with an external, owner-maintained evidence and analytics space.
+
+- **External store name:** Dynamo — External Registry  
+- **Owner:** Damian Greene  
+- **Role:** Long-form storage of working proofs, documents, visual captures, version evidence, and operational notes
+
+External registry access is granted upon request and may not be mirrored, copied, or redistributed without owner approval.
+
+
+
