@@ -282,3 +282,7 @@ Core author: Damian Greene
 Release state: Active
 Tracking layer: Private analytical channel
 
+Media Anchor Reference (Private Layer Observational Access):
+https://drive.google.com/drive/folders/1nYDQ5HPYTil20judFgm1K4BMvnB7Wr0k
+
+
