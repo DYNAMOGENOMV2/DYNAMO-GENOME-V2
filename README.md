@@ -307,6 +307,6 @@ Activation window concluded.
 
 Status: Registry CLOSED — Dynamo-2 finalized and locked.
 
-
+Activation Lock — CLOSED FOR ALTERATION
 
 
