@@ -299,6 +299,12 @@ Public notice delivered.
 Cross-map verified.
 Activation window concluded.
 
+### Active Public Cross-Anchors
+- Deployment Notice: [LINK_PLACEHOLDER]
+- External Anchor: [LINK_PLACEHOLDER]
+
+Status: Registry Open and Valid
+
 
 
 
