@@ -293,5 +293,13 @@ For a live record of where Dynamo v2 has been publicly declared or referenced, s
 
 - [`DEPLOYMENT-REGISTRY.md`](./DEP
 
+Registry Notice — DYN2-Final
+Trace reference closure: A002-sealed.
+Public notice delivered.
+Cross-map verified.
+Activation window concluded.
+
+
+
 
 
