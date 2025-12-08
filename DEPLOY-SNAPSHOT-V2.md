@@ -42,3 +42,9 @@ Internal rights: retained exclusively.
 External indexing: permitted.
 Direct derivative claims: barred.
 
+Release State Confirmed:
+V2 successfully deployed.
+Final timestamp applied.
+No outstanding dependencies.
+Deployment window closed.
+
