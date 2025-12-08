@@ -35,3 +35,10 @@ Rights Layer: Attribution Locked
 =====
 
 
+Propagation Notice:
+Dynamo-V2 now publicly discoverable.
+Public rights: observation only.
+Internal rights: retained exclusively.
+External indexing: permitted.
+Direct derivative claims: barred.
+
