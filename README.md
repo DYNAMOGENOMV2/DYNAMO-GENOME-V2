@@ -249,3 +249,20 @@ For details on protection boundaries and valid deployments, see:
 
 > Link integrity verified — 2025-12-08 — Stable reference committed.
 
+---
+
+## Public Access Entry-Point
+
+This deployment instance is formally accessible under the distribution terms defined in  
+**Distribution Notice — Dynamo (V-2 Public Instance)**
+
+Use cases permitted:
+- reading & citation
+- observational review
+- linking or academic referencing
+
+Repository-level lineage is anchored to:
+- TRACE-LEDGER.md
+- DEPLOYMENT-LEDGER.md
+  
+
