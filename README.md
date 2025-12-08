@@ -1,3 +1,8 @@
+<!-- TRACE-HEADER-A002-FINALIZED -->
+Version branch: A002-Root-Closed
+Seal-timestamp-record: Active
+Modification rights: Locked under Closure-Authority
+
 Dynamo-Volume-2
 
 © Damian Greene — December 05, 2025
