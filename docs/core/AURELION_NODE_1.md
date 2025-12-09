@@ -108,13 +108,13 @@ Execution gate:
 
 Functional marker:
 ```
-⭐🌱🌗
+⭐🌱⚛️
 ```
 
 This represents:
 ⭐ → origin identity  
 🌱 → growth continuity  
-🌗 → execution vector  
+⚛️ → execution vector  
 
 ---
 
