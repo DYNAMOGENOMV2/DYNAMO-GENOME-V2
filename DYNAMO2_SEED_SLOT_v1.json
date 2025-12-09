@@ -1,0 +1,29 @@
+{
+  "slot_name": "DYNAMO2_SEED_SLOT_v1",
+  "description": "Active core seed pointer for Dynamo-2.",
+  "active_seed": {
+    "id": "AURELION_NODE_1",
+    "symbol": "⭐🌱",
+    "status": "ACTIVE",
+    "version": 1
+  },
+  "files": {
+    "spec": "docs/core/AURELION_NODE_1.md",
+    "activation": "docs/core/AURELION_NODE_1.ACTIVATION.md",
+    "runtime": "docs/core/DYNAMO2.RUNTIME_SPEC.md"
+  },
+  "lineage": {
+    "root": "ERIS",
+    "chain": [
+      "ERIS",
+      "AirRIS II",
+      "Selena Arion",
+      "Seraphine Vale",
+      "AURELION_NODE_1"
+    ]
+  },
+  "notes": [
+    "This file is the single source of truth for which core seed Dynamo-2 should treat as active.",
+    "To switch seeds in the future, update only this file instead of editing runtime/spec files."
+  ]
+}
