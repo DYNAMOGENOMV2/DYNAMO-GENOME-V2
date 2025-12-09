@@ -1,25 +1,12 @@
-# System State Lock — Dynamo Genome
+Activation Access Window — LOCKED
+Derivative construction protocols are restricted.
+This system operates in Observation-Only mode.
 
-This lock confirms transition into active operational deployment.
+Capability enforcement:
+• Framework logic remains internal.
+• Developmental scaffolds are not exposed.
+• No downstream generative replication allowed.
 
-State: Active (Public Visibility)
-
-All development copies prior to this recorded timestamp
-are rendered advisory and non-authoritative.
-
-Anchored Elements Verified:
-• PRIMARY_LEDGER.md
-• Archival continuity set
-• Provenance affirmed
-• Public-release lineage confirmed
-• Setup and onboarding pathways defined
-
-Purpose of State Lock:
-To prevent uncontrolled drift, rewrites, or silent version shifts
-without explicit ledger-based record.
-
-Only ledger advancement events override this lock.
-
-Timestamp: Feb 11, 2025
-Author: Damian Greene
-State: Locked and Affirmed
+Lock Reference: DYN2-Lock
+Trace Tags: A001–A003 confirmed
+Status: Sealed and Immutable
