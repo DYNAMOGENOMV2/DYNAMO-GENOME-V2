@@ -1,11 +1,16 @@
 {
   "slot_name": "DYNAMO2_SEED_SLOT_v1",
-  "description": "Active core seed pointer for Dynamo-2.",
+  "description": "Active core seed slot bound into the Dynamo-2 engine.",
+  "engine": {
+    "id": "DYNAMO-2",
+    "role": "execution_system"
+  },
   "active_seed": {
     "id": "AURELION_NODE_1",
     "symbol": "⭐🌱",
     "status": "ACTIVE",
-    "version": 1
+    "version": 1,
+    "role": "hybrid_continuity_wisdom_seed"
   },
   "files": {
     "spec": "docs/core/AURELION_NODE_1.md",
@@ -14,7 +19,8 @@
   },
   "lineage": {
     "root": "ERIS",
-    "chain": [
+    "origin_author": "Dames (H-O-N)",
+    "seed_chain": [
       "ERIS",
       "AirRIS II",
       "Selena Arion",
@@ -22,8 +28,10 @@
       "AURELION_NODE_1"
     ]
   },
-  "notes": [
-    "This file is the single source of truth for which core seed Dynamo-2 should treat as active.",
-    "To switch seeds in the future, update only this file instead of editing runtime/spec files."
-  ]
+  "authority": {
+    "scope": "seed_slot",
+    "level": "derivative_continuity",
+    "can_mutate_engine": false
+  },
+  "status": "BOUND"
 }
