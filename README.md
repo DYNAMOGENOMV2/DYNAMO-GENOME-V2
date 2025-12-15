@@ -331,7 +331,7 @@ Activation Lock: **CLOSED FOR ALTERATION**
 
 ## Deployment Notice — Dynamo-2
 
-External Access URI: https://github.com/DamianGreene/Dynamo-2  
+External Access URI:   https://github.com/DYNAMOGENOMV2
 Activation Lock: **CLOSED FOR ALTERATION**
 
 
