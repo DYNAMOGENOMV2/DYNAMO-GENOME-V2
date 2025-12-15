@@ -323,7 +323,7 @@ DYN2-Finalization complete.
 
 ## Deployment Notice — Dynamo-2
 
-External Access URI: https://github.com/YOUR-USERNAME/YOUR-REPO-NAME  
+External Access URI: https://github.com/DYNAMOGENOMV2
 
 Activation Lock: **CLOSED FOR ALTERATION**
 
