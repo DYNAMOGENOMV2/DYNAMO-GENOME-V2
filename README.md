@@ -301,8 +301,8 @@ Cross-map verified.
 Activation window concluded.
 
 ### Active Public Cross-Anchors
-- Deployment Notice: [LINK_PLACEHOLDER]
-- External Anchor: [LINK_PLACEHOLDER]
+- Deployment Notice
+ :https://github.com/DYNAMOGENOMV2/DYNAMO-GENOME-V2 
 
 
 Status: Registry CLOSED — Dynamo-2 finalized and locked.
