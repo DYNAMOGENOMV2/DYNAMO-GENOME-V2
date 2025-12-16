@@ -31,3 +31,8 @@ Permission Transfer: Prohibited without written notice
 
 ## Status
 Deployment lock acknowledged and active.
+
+Public Repository:
+https://github.com/DYNAMOGENOMV2/DYNAMO-GENOME-V2
+
+
