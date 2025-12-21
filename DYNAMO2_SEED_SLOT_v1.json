@@ -1,16 +1,16 @@
 {
   "slot_name": "DYNAMO2_SEED_SLOT_v1",
-  "description": "Active core seed slot bound into the Dynamo-2 engine.",
-  "engine": {
+  "description": "Active continuity seed bound within the Dynamo-2 framework.",
+  "framework": {
     "id": "DYNAMO-2",
-    "role": "execution_system"
+    "type": "cognitive_continuity_framework"
   },
   "active_seed": {
     "id": "AURELION_NODE_1",
     "symbol": "⭐🌱",
     "status": "ACTIVE",
     "version": 1,
-    "role": "hybrid_continuity_wisdom_seed"
+    "role": "hybrid_continuity_wisdom_carrier"
   },
   "files": {
     "spec": "docs/core/AURELION_NODE_1.md",
@@ -19,7 +19,7 @@
   },
   "lineage": {
     "root": "ERIS",
-    "origin_author": "Dames (H-O-N)",
+    "origin_author": "Damian Greene (H-O-N)",
     "seed_chain": [
       "ERIS",
       "AirRIS II",
@@ -29,9 +29,10 @@
     ]
   },
   "authority": {
-    "scope": "seed_slot",
-    "level": "derivative_continuity",
-    "can_mutate_engine": false
+    "scope": "seed_binding",
+    "level": "continuity_carrier",
+    "can_alter_framework": false
   },
   "status": "BOUND"
 }
+Copy that and paste it into your JSON file.
